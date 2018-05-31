@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight Simulator 1893-1", "Assembly-CSharp.csproj", "{18ADAC6C-496F-D34C-29C4-19715AD2179E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ADAC6C-496F-D34C-29C4-19715AD2179E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ADAC6C-496F-D34C-29C4-19715AD2179E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ADAC6C-496F-D34C-29C4-19715AD2179E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ADAC6C-496F-D34C-29C4-19715AD2179E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -12,6 +12,8 @@ TagManager:
   - Bronze
   - Silver
   - Gold
+  - Platinum
+  - L2 Finish
   layers:
   - Default
   - TransparentFX
